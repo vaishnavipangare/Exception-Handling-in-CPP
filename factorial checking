@@ -25,3 +25,12 @@ int main() {
 
     return 0;
 }
+*\
+Enter values of numbers 1 & 2:5
+0
+
+ERROR:Division by0
+
+
+=== Code Execution Successful ===
+\*
