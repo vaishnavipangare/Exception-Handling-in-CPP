@@ -103,4 +103,3 @@ To study and implement **exception handling in C++**, using `try`, `catch`, and 
 - The keywords **try, throw, and catch** are used to detect and handle exceptions.  
 - It ensures that programs can **continue execution gracefully** even when unexpected errors occur.  
 - Exception handling is essential for building **robust, user‑friendly applications**.
-- 
